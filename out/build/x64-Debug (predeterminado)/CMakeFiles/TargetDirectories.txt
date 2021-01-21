@@ -1,0 +1,5 @@
+C:/Users/ASUS/source/repos/MULTIDIMENSIONES/out/build/x64-Debug (predeterminado)/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/source/repos/MULTIDIMENSIONES/out/build/x64-Debug (predeterminado)/CMakeFiles/rebuild_cache.dir
+C:/Users/ASUS/source/repos/MULTIDIMENSIONES/out/build/x64-Debug (predeterminado)/MULTIDIMENSIONES/CMakeFiles/MULTIDIMENSIONES.dir
+C:/Users/ASUS/source/repos/MULTIDIMENSIONES/out/build/x64-Debug (predeterminado)/MULTIDIMENSIONES/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/source/repos/MULTIDIMENSIONES/out/build/x64-Debug (predeterminado)/MULTIDIMENSIONES/CMakeFiles/rebuild_cache.dir
